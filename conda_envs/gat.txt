@@ -1,0 +1,28 @@
+# packages in environment at /home/niek/mambaforge/envs/gat:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                 conda_forge    conda-forge
+_openmp_mutex             4.5                       2_gnu    conda-forge
+ca-certificates           2024.8.30            hbcca054_0    conda-forge
+certifi                   2019.11.28       py27h8c360ce_1    conda-forge
+gat                       1.3.6                    pypi_0    pypi
+ld_impl_linux-64          2.40                 hf3520f5_7    conda-forge
+libffi                    3.2.1             he1b5a44_1007    conda-forge
+libgcc                    14.1.0               h77fa898_1    conda-forge
+libgcc-ng                 14.1.0               h69a702a_1    conda-forge
+libgomp                   14.1.0               h77fa898_1    conda-forge
+libsqlite                 3.46.0               hde9e2c9_0    conda-forge
+libstdcxx                 14.1.0               hc0a3c3a_1    conda-forge
+libstdcxx-ng              14.1.0               h4852527_1    conda-forge
+libzlib                   1.2.13               h4ab18f5_6    conda-forge
+ncurses                   6.5                  he02047a_1    conda-forge
+openssl                   1.1.1w               hd590300_0    conda-forge
+pip                       20.1.1             pyh9f0ad1d_0    conda-forge
+python                    2.7.15          h5a48372_1011_cpython    conda-forge
+python_abi                2.7                    1_cp27mu    conda-forge
+readline                  8.2                  h8228510_1    conda-forge
+setuptools                44.0.0                   py27_0    conda-forge
+sqlite                    3.46.0               h6d4b2fc_0    conda-forge
+tk                        8.6.13          noxft_h4845f30_101    conda-forge
+wheel                     0.37.1             pyhd8ed1ab_0    conda-forge
+zlib                      1.2.13               h4ab18f5_6    conda-forge
