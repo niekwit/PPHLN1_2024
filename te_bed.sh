@@ -3,6 +3,7 @@
 mkdir -p bed
 
 # GTF downloaded from https://www.dropbox.com/scl/fo/o0my0l1c7s40un9qv6yvf/AC8F4xbB-V3SGcwzMeJ8vG0?rlkey=sbsb00bbcrq4ofmq1oviy7ws1&e=1&dl=0
+# https://labshare.cshl.edu/shares/mhammelllab/www-data/TEtranscripts/TE_GTF/
 # https://hammelllab.labsites.cshl.edu/software/
 
 # Convert GTF to BED
